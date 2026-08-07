@@ -1,0 +1,32 @@
+name: Daily Journal
+
+on:
+  schedule:
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  journal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate today's entries
+        run: bash .github/scripts/journal.sh
+        env:
+          BOT_NAME: "Abdullah Chauhdary"
+          BOT_EMAIL: "mohammadabdullah.gfx@gmail.com"
+          BOT_TZ: "UTC"
+          MIN_COMMITS: "1"
+          MAX_COMMITS: "11"
+          SKIP_CHANCE: "8"
+          SEED_SALT: "learning-journal"
+
+      - name: Push
+        run: |
+          git pull --rebase --autostash
+          git push
