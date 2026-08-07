@@ -9,3 +9,4 @@
 - 2026-08-07 07:41 - chore: adopt new lint preset
 - 2026-08-07 09:00 - wip: sync local branch state
 - 2026-08-07 09:38 - style: align chained calls
+- 2026-08-07 10:40 - perf: batch DB writes
