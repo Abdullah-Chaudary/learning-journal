@@ -6,3 +6,4 @@
 - 2026-08-07 04:19 - wip: sync local branch state
 - 2026-08-07 05:13 - build: add reproducible build script
 - 2026-08-07 06:33 - chore: refresh CI cache key
+- 2026-08-07 07:41 - chore: adopt new lint preset
