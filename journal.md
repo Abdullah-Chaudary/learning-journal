@@ -24,3 +24,4 @@
 - 2026-08-08 12:28 - fix: detect interrupted writes
 - 2026-08-08 13:12 - perf: reduce payload size
 - 2026-08-08 14:04 - wip: rough draft of algorithm
+- 2026-08-08 14:36 - fix: handle timezone edge case
