@@ -22,3 +22,4 @@
 - 2026-08-08 10:30 - perf: trim redundant work
 - 2026-08-08 11:38 - feat: add file watcher
 - 2026-08-08 12:28 - fix: detect interrupted writes
+- 2026-08-08 13:12 - perf: reduce payload size
