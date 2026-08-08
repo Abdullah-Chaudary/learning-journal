@@ -14,3 +14,4 @@
 - 2026-08-07 12:59 - style: standardize spacing
 - 2026-08-07 14:18 - feat: add template rendering
 - 2026-08-07 14:58 - perf: avoid full array scans
+- 2026-08-08 04:44 - notes: outline weekend study plan
