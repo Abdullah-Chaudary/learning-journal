@@ -18,3 +18,4 @@
 - 2026-08-08 05:53 - style: sort imports alphabetically
 - 2026-08-08 06:53 - test: verify rollback on failure
 - 2026-08-08 08:12 - feat: scaffold new module skeleton
+- 2026-08-08 09:14 - security: sanitize user input
