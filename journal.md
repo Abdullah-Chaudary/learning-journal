@@ -16,3 +16,4 @@
 - 2026-08-07 14:58 - perf: avoid full array scans
 - 2026-08-08 04:44 - notes: outline weekend study plan
 - 2026-08-08 05:53 - style: sort imports alphabetically
+- 2026-08-08 06:53 - test: verify rollback on failure
