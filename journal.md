@@ -27,3 +27,4 @@
 - 2026-08-08 14:36 - fix: handle timezone edge case
 - 2026-08-09 10:41 - feat: support multiple output formats
 - 2026-08-09 11:35 - refactor: reduce duplicated logic
+- 2026-08-09 12:22 - refactor: move constants to config
