@@ -28,3 +28,4 @@
 - 2026-08-09 10:41 - feat: support multiple output formats
 - 2026-08-09 11:35 - refactor: reduce duplicated logic
 - 2026-08-09 12:22 - refactor: move constants to config
+- 2026-08-09 13:27 - refactor: centralize timestamp logic
