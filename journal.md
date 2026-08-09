@@ -30,3 +30,4 @@
 - 2026-08-09 12:22 - refactor: move constants to config
 - 2026-08-09 13:27 - refactor: centralize timestamp logic
 - 2026-08-09 13:48 - docs: add daily learning notes
+- 2026-08-09 14:39 - fix: close resource leak on error
