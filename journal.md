@@ -32,3 +32,4 @@
 - 2026-08-09 13:48 - docs: add daily learning notes
 - 2026-08-09 14:39 - fix: close resource leak on error
 - 2026-08-10 09:43 - chore: initialize repo structure
+- 2026-08-10 10:32 - chore: refresh lockfile
