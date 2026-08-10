@@ -35,3 +35,4 @@
 - 2026-08-10 10:32 - chore: refresh lockfile
 - 2026-08-10 11:41 - docs: reorganize topic index
 - 2026-08-10 12:48 - refactor: use config factory pattern
+- 2026-08-10 13:13 - test: assert no side effects
