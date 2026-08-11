@@ -40,3 +40,4 @@
 - 2026-08-10 14:00 - fix: retry failed HTTP requests
 - 2026-08-11 09:14 - chore: tidy workspace settings
 - 2026-08-11 09:39 - perf: skip redundant checks
+- 2026-08-11 10:15 - test: ensure idempotent runs
