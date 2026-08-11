@@ -41,3 +41,4 @@
 - 2026-08-11 09:14 - chore: tidy workspace settings
 - 2026-08-11 09:39 - perf: skip redundant checks
 - 2026-08-11 10:15 - test: ensure idempotent runs
+- 2026-08-11 10:46 - chore: bump dependency versions
