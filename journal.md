@@ -38,3 +38,4 @@
 - 2026-08-10 13:13 - test: assert no side effects
 - 2026-08-10 13:34 - docs: update contribution guidelines
 - 2026-08-10 14:00 - fix: retry failed HTTP requests
+- 2026-08-11 09:14 - chore: tidy workspace settings
