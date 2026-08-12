@@ -43,3 +43,4 @@
 - 2026-08-11 10:15 - test: ensure idempotent runs
 - 2026-08-11 10:46 - chore: bump dependency versions
 - 2026-08-12 09:42 - test: validate output format
+- 2026-08-12 10:12 - docs: add daily learning notes
