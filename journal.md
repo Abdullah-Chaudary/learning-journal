@@ -48,3 +48,4 @@
 - 2026-08-12 11:30 - wip: checkpoint current work
 - 2026-08-12 12:01 - chore: update editorconfig
 - 2026-08-12 12:55 - docs: polish changelog entries
+- 2026-08-12 13:45 - refactor: centralize timestamp logic
