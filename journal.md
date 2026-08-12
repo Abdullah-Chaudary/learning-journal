@@ -50,3 +50,4 @@
 - 2026-08-12 12:55 - docs: polish changelog entries
 - 2026-08-12 13:45 - refactor: centralize timestamp logic
 - 2026-08-12 14:37 - test: snapshot serializer output
+- 2026-08-12 15:02 - fix: clamp values to valid bounds
