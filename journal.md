@@ -53,3 +53,4 @@
 - 2026-08-12 15:02 - fix: clamp values to valid bounds
 - 2026-08-13 11:58 - wip: stage exploratory change
 - 2026-08-13 12:32 - test: assert error messages
+- 2026-08-13 13:35 - docs: link related topics
