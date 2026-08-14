@@ -58,3 +58,4 @@
 - 2026-08-14 12:11 - style: sort imports alphabetically
 - 2026-08-14 12:35 - chore: trim oversized diffs
 - 2026-08-14 13:14 - fix: reset state between runs
+- 2026-08-14 13:44 - refactor: streamline initialization flow
