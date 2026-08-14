@@ -57,3 +57,4 @@
 - 2026-08-13 14:15 - refactor: consolidate type guards
 - 2026-08-14 12:11 - style: sort imports alphabetically
 - 2026-08-14 12:35 - chore: trim oversized diffs
+- 2026-08-14 13:14 - fix: reset state between runs
