@@ -65,3 +65,4 @@
 - 2026-08-15 11:31 - notes: brainstorm feature ideas
 - 2026-08-15 12:13 - feat: implement session restore
 - 2026-08-15 12:40 - fix: handle unicode filenames
+- 2026-08-15 13:44 - feat: add dry-run mode
