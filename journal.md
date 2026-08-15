@@ -66,3 +66,4 @@
 - 2026-08-15 12:13 - feat: implement session restore
 - 2026-08-15 12:40 - fix: handle unicode filenames
 - 2026-08-15 13:44 - feat: add dry-run mode
+- 2026-08-15 14:27 - notes: list gotchas encountered
