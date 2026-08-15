@@ -62,3 +62,4 @@
 - 2026-08-15 09:14 - style: consistent error message case
 - 2026-08-15 09:43 - notes: document API endpoint table
 - 2026-08-15 10:51 - feat: scaffold new module skeleton
+- 2026-08-15 11:31 - notes: brainstorm feature ideas
