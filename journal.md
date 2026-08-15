@@ -64,3 +64,4 @@
 - 2026-08-15 10:51 - feat: scaffold new module skeleton
 - 2026-08-15 11:31 - notes: brainstorm feature ideas
 - 2026-08-15 12:13 - feat: implement session restore
+- 2026-08-15 12:40 - fix: handle unicode filenames
