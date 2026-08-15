@@ -60,3 +60,4 @@
 - 2026-08-14 13:14 - fix: reset state between runs
 - 2026-08-14 13:44 - refactor: streamline initialization flow
 - 2026-08-15 09:14 - style: consistent error message case
+- 2026-08-15 09:43 - notes: document API endpoint table
