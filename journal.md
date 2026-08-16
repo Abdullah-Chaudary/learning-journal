@@ -71,3 +71,4 @@
 - 2026-08-16 11:18 - chore: update license header
 - 2026-08-16 12:04 - perf: batch DB writes
 - 2026-08-16 12:58 - chore: tidy workspace settings
+- 2026-08-16 13:32 - docs: refine notes on async patterns
