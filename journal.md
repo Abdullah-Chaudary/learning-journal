@@ -69,3 +69,4 @@
 - 2026-08-15 14:27 - notes: list gotchas encountered
 - 2026-08-16 10:18 - style: group related statements
 - 2026-08-16 11:18 - chore: update license header
+- 2026-08-16 12:04 - perf: batch DB writes
