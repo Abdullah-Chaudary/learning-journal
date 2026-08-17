@@ -80,3 +80,4 @@
 - 2026-08-17 11:37 - test: assert stable ordering
 - 2026-08-17 12:33 - chore: add .gitignore entries
 - 2026-08-17 13:31 - feat: implement retry logic
+- 2026-08-17 14:33 - feat: log structured events
