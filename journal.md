@@ -77,3 +77,4 @@
 - 2026-08-17 09:01 - refactor: split large function into parts
 - 2026-08-17 09:56 - test: snapshot serializer output
 - 2026-08-17 10:23 - test: parametrize date tests
+- 2026-08-17 11:37 - test: assert stable ordering
