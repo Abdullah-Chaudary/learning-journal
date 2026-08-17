@@ -79,3 +79,4 @@
 - 2026-08-17 10:23 - test: parametrize date tests
 - 2026-08-17 11:37 - test: assert stable ordering
 - 2026-08-17 12:33 - chore: add .gitignore entries
+- 2026-08-17 13:31 - feat: implement retry logic
