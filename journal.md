@@ -75,3 +75,4 @@
 - 2026-08-17 07:26 - chore: update linter rules
 - 2026-08-17 08:19 - docs: expand architecture overview
 - 2026-08-17 09:01 - refactor: split large function into parts
+- 2026-08-17 09:56 - test: snapshot serializer output
