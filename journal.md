@@ -82,3 +82,4 @@
 - 2026-08-17 13:31 - feat: implement retry logic
 - 2026-08-17 14:33 - feat: log structured events
 - 2026-08-18 10:00 - refactor: tidy up module boundaries
+- 2026-08-19 11:11 - perf: skip redundant checks
