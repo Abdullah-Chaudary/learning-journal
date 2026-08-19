@@ -86,3 +86,4 @@
 - 2026-08-19 11:57 - feat: add file watcher
 - 2026-08-19 12:48 - test: cover empty-input scenarios
 - 2026-08-19 14:01 - chore: add .gitignore entries
+- 2026-08-19 14:38 - style: consistent error message case
