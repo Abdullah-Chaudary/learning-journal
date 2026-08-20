@@ -88,3 +88,4 @@
 - 2026-08-19 14:01 - chore: add .gitignore entries
 - 2026-08-19 14:38 - style: consistent error message case
 - 2026-08-20 07:53 - wip: mid-way through migration
+- 2026-08-20 09:13 - refactor: extract shared helper
