@@ -91,3 +91,4 @@
 - 2026-08-20 09:13 - refactor: extract shared helper
 - 2026-08-20 09:58 - docs: record debugging session notes
 - 2026-08-20 10:51 - feat: add pagination support
+- 2026-08-20 11:55 - style: consistent error message case
