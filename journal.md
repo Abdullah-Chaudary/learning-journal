@@ -94,3 +94,4 @@
 - 2026-08-20 11:55 - style: consistent error message case
 - 2026-08-20 12:30 - notes: draft interview cheat sheet
 - 2026-08-20 13:36 - docs: link related topics
+- 2026-08-20 14:41 - refactor: reduce duplicated logic
