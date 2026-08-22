@@ -103,3 +103,4 @@
 - 2026-08-21 11:54 - chore: bump dependency versions
 - 2026-08-21 12:23 - style: align chained calls
 - 2026-08-21 13:43 - refactor: extract shared helper
+- 2026-08-22 10:00 - fix: validate date range before parse
