@@ -106,3 +106,4 @@
 - 2026-08-22 10:00 - fix: validate date range before parse
 - 2026-08-22 10:38 - docs: link related topics
 - 2026-08-22 11:08 - docs: expand comment coverage
+- 2026-08-22 12:16 - test: validate output format
