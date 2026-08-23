@@ -112,3 +112,4 @@
 - 2026-08-23 09:21 - test: cover empty-input scenarios
 - 2026-08-23 09:41 - feat: add settings persistence
 - 2026-08-23 10:31 - chore: update license header
+- 2026-08-23 10:56 - fix: restore missing import
