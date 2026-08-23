@@ -110,3 +110,4 @@
 - 2026-08-22 13:21 - wip: snapshot before refactor
 - 2026-08-23 08:58 - chore: update linter rules
 - 2026-08-23 09:21 - test: cover empty-input scenarios
+- 2026-08-23 09:41 - feat: add settings persistence
