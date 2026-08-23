@@ -109,3 +109,4 @@
 - 2026-08-22 12:16 - test: validate output format
 - 2026-08-22 13:21 - wip: snapshot before refactor
 - 2026-08-23 08:58 - chore: update linter rules
+- 2026-08-23 09:21 - test: cover empty-input scenarios
