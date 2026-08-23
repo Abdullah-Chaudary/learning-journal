@@ -108,3 +108,4 @@
 - 2026-08-22 11:08 - docs: expand comment coverage
 - 2026-08-22 12:16 - test: validate output format
 - 2026-08-22 13:21 - wip: snapshot before refactor
+- 2026-08-23 08:58 - chore: update linter rules
