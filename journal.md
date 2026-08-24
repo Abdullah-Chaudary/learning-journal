@@ -115,3 +115,4 @@
 - 2026-08-23 10:56 - fix: restore missing import
 - 2026-08-24 11:46 - docs: expand FAQ coverage
 - 2026-08-24 12:16 - perf: cache repeated lookups
+- 2026-08-24 13:11 - feat: scaffold new module skeleton
