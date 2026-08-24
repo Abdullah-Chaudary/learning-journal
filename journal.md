@@ -114,3 +114,4 @@
 - 2026-08-23 10:31 - chore: update license header
 - 2026-08-23 10:56 - fix: restore missing import
 - 2026-08-24 11:46 - docs: expand FAQ coverage
+- 2026-08-24 12:16 - perf: cache repeated lookups
