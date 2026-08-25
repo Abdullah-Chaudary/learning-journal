@@ -120,3 +120,4 @@
 - 2026-08-24 14:48 - refactor: separate concerns in loader
 - 2026-08-25 06:32 - refactor: use config factory pattern
 - 2026-08-25 07:35 - feat: implement incremental backups
+- 2026-08-25 08:34 - test: assert no side effects
