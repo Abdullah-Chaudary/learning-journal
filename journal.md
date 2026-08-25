@@ -127,3 +127,4 @@
 - 2026-08-25 11:09 - chore: sync package metadata
 - 2026-08-25 11:48 - fix: handle missing keys gracefully
 - 2026-08-25 12:51 - docs: add troubleshooting section
+- 2026-08-25 13:45 - fix: close resource leak on error
