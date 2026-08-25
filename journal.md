@@ -126,3 +126,4 @@
 - 2026-08-25 10:49 - docs: revise intro paragraph
 - 2026-08-25 11:09 - chore: sync package metadata
 - 2026-08-25 11:48 - fix: handle missing keys gracefully
+- 2026-08-25 12:51 - docs: add troubleshooting section
