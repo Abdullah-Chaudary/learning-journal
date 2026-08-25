@@ -124,3 +124,4 @@
 - 2026-08-25 09:27 - wip: park work in progress
 - 2026-08-25 09:51 - chore: update editorconfig
 - 2026-08-25 10:49 - docs: revise intro paragraph
+- 2026-08-25 11:09 - chore: sync package metadata
