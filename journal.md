@@ -118,3 +118,4 @@
 - 2026-08-24 13:11 - feat: scaffold new module skeleton
 - 2026-08-24 13:59 - notes: brainstorm feature ideas
 - 2026-08-24 14:48 - refactor: separate concerns in loader
+- 2026-08-25 06:32 - refactor: use config factory pattern
