@@ -128,3 +128,4 @@
 - 2026-08-25 11:48 - fix: handle missing keys gracefully
 - 2026-08-25 12:51 - docs: add troubleshooting section
 - 2026-08-25 13:45 - fix: close resource leak on error
+- 2026-08-25 14:51 - fix: adjust sorting for locale
