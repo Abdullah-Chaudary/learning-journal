@@ -122,3 +122,4 @@
 - 2026-08-25 07:35 - feat: implement incremental backups
 - 2026-08-25 08:34 - test: assert no side effects
 - 2026-08-25 09:27 - wip: park work in progress
+- 2026-08-25 09:51 - chore: update editorconfig
