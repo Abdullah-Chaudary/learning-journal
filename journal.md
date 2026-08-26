@@ -130,3 +130,4 @@
 - 2026-08-25 13:45 - fix: close resource leak on error
 - 2026-08-25 14:51 - fix: adjust sorting for locale
 - 2026-08-26 08:23 - feat: build search filter builder
+- 2026-08-26 09:22 - refactor: rename module for clarity
