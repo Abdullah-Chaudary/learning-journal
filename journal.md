@@ -138,3 +138,4 @@
 - 2026-08-27 15:10 - style: fix inconsistent quotes
 - 2026-08-27 16:08 - style: unify error casing
 - 2026-08-27 17:07 - feat: add dry-run mode
+- 2026-08-27 17:37 - style: unify list punctuation
