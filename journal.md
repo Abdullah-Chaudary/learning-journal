@@ -136,3 +136,4 @@
 - 2026-08-27 12:33 - style: sort imports alphabetically
 - 2026-08-27 13:51 - test: reproduce reported bug
 - 2026-08-27 15:10 - style: fix inconsistent quotes
+- 2026-08-27 16:08 - style: unify error casing
