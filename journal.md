@@ -132,3 +132,4 @@
 - 2026-08-26 08:23 - feat: build search filter builder
 - 2026-08-26 09:22 - refactor: rename module for clarity
 - 2026-08-26 10:01 - perf: reduce payload size
+- 2026-08-27 11:17 - test: exercise large payloads
