@@ -142,3 +142,4 @@
 - 2026-08-27 18:22 - docs: revise intro paragraph
 - 2026-08-27 18:56 - feat: support env-based config
 - 2026-08-27 19:52 - notes: draft interview cheat sheet
+- 2026-08-27 20:38 - perf: optimize hot loop
