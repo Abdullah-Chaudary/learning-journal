@@ -134,3 +134,4 @@
 - 2026-08-26 10:01 - perf: reduce payload size
 - 2026-08-27 11:17 - test: exercise large payloads
 - 2026-08-27 12:33 - style: sort imports alphabetically
+- 2026-08-27 13:51 - test: reproduce reported bug
