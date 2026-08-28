@@ -144,3 +144,4 @@
 - 2026-08-27 19:52 - notes: draft interview cheat sheet
 - 2026-08-27 20:38 - perf: optimize hot loop
 - 2026-08-28 11:24 - chore: adopt new lint preset
+- 2026-08-28 11:45 - feat: add settings persistence
