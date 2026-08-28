@@ -145,3 +145,4 @@
 - 2026-08-27 20:38 - perf: optimize hot loop
 - 2026-08-28 11:24 - chore: adopt new lint preset
 - 2026-08-28 11:45 - feat: add settings persistence
+- 2026-08-28 12:06 - test: cover empty-input scenarios
