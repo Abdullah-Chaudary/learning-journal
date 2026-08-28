@@ -147,3 +147,4 @@
 - 2026-08-28 11:45 - feat: add settings persistence
 - 2026-08-28 12:06 - test: cover empty-input scenarios
 - 2026-08-28 12:56 - docs: add troubleshooting section
+- 2026-08-28 14:00 - notes: draft interview cheat sheet
