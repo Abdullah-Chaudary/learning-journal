@@ -151,3 +151,4 @@
 - 2026-08-28 15:10 - chore: update linter rules
 - 2026-08-28 16:02 - chore: refresh lockfile
 - 2026-08-28 16:52 - fix: handle unicode filenames
+- 2026-08-29 13:23 - refactor: use config factory pattern
