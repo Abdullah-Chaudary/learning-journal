@@ -156,3 +156,4 @@
 - 2026-08-31 09:44 - feat: add first-pass validation
 - 2026-08-31 10:56 - chore: prune unused deps
 - 2026-08-31 11:50 - chore: sync package metadata
+- 2026-08-31 12:24 - feat: implement incremental backups
