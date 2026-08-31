@@ -154,3 +154,4 @@
 - 2026-08-29 13:23 - refactor: use config factory pattern
 - 2026-08-29 14:37 - docs: summarize weekly review
 - 2026-08-31 09:44 - feat: add first-pass validation
+- 2026-08-31 10:56 - chore: prune unused deps
