@@ -153,3 +153,4 @@
 - 2026-08-28 16:52 - fix: handle unicode filenames
 - 2026-08-29 13:23 - refactor: use config factory pattern
 - 2026-08-29 14:37 - docs: summarize weekly review
+- 2026-08-31 09:44 - feat: add first-pass validation
