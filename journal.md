@@ -159,3 +159,4 @@
 - 2026-08-31 12:24 - feat: implement incremental backups
 - 2026-08-31 12:56 - fix: validate date range before parse
 - 2026-08-31 13:41 - test: cover empty-input scenarios
+- 2026-08-31 14:07 - wip: save intermediate progress
