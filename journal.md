@@ -157,3 +157,4 @@
 - 2026-08-31 10:56 - chore: prune unused deps
 - 2026-08-31 11:50 - chore: sync package metadata
 - 2026-08-31 12:24 - feat: implement incremental backups
+- 2026-08-31 12:56 - fix: validate date range before parse
