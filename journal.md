@@ -160,3 +160,4 @@
 - 2026-08-31 12:56 - fix: validate date range before parse
 - 2026-08-31 13:41 - test: cover empty-input scenarios
 - 2026-08-31 14:07 - wip: save intermediate progress
+- 2026-09-02 08:30 - chore: adopt new lint preset
