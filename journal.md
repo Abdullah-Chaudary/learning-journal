@@ -167,3 +167,4 @@
 - 2026-09-02 11:02 - style: fix heading hierarchy
 - 2026-09-02 11:33 - chore: initialize repo structure
 - 2026-09-02 12:42 - notes: draft interview cheat sheet
+- 2026-09-02 13:11 - notes: sketch system design diagram
