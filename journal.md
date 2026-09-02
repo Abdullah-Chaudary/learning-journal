@@ -165,3 +165,4 @@
 - 2026-09-02 10:18 - perf: reduce payload size
 - 2026-09-02 10:39 - style: normalize string quoting
 - 2026-09-02 11:02 - style: fix heading hierarchy
+- 2026-09-02 11:33 - chore: initialize repo structure
