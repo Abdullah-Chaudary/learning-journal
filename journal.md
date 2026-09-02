@@ -166,3 +166,4 @@
 - 2026-09-02 10:39 - style: normalize string quoting
 - 2026-09-02 11:02 - style: fix heading hierarchy
 - 2026-09-02 11:33 - chore: initialize repo structure
+- 2026-09-02 12:42 - notes: draft interview cheat sheet
