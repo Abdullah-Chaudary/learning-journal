@@ -168,3 +168,4 @@
 - 2026-09-02 11:33 - chore: initialize repo structure
 - 2026-09-02 12:42 - notes: draft interview cheat sheet
 - 2026-09-02 13:11 - notes: sketch system design diagram
+- 2026-09-02 13:33 - feat: add batch processing mode
