@@ -171,3 +171,4 @@
 - 2026-09-02 13:33 - feat: add batch processing mode
 - 2026-09-03 10:10 - build: add reproducible build script
 - 2026-09-03 10:43 - fix: prevent double submission
+- 2026-09-03 11:48 - notes: summarize conference talk
