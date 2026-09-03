@@ -179,3 +179,4 @@
 - 2026-09-03 15:17 - style: harmonize comment style
 - 2026-09-03 16:34 - chore: bump dependency versions
 - 2026-09-03 17:07 - docs: update project README
+- 2026-09-03 17:43 - feat: add template rendering
