@@ -170,3 +170,4 @@
 - 2026-09-02 13:11 - notes: sketch system design diagram
 - 2026-09-02 13:33 - feat: add batch processing mode
 - 2026-09-03 10:10 - build: add reproducible build script
+- 2026-09-03 10:43 - fix: prevent double submission
