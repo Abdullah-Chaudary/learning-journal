@@ -174,3 +174,4 @@
 - 2026-09-03 11:48 - notes: summarize conference talk
 - 2026-09-03 12:45 - feat: log structured events
 - 2026-09-03 13:40 - chore: reorganize docs folder
+- 2026-09-03 14:05 - refactor: use config factory pattern
