@@ -178,3 +178,4 @@
 - 2026-09-03 14:26 - docs: annotate key design decisions
 - 2026-09-03 15:17 - style: harmonize comment style
 - 2026-09-03 16:34 - chore: bump dependency versions
+- 2026-09-03 17:07 - docs: update project README
