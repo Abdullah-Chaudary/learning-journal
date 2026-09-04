@@ -182,3 +182,4 @@
 - 2026-09-03 17:43 - feat: add template rendering
 - 2026-09-04 10:37 - wip: park work in progress
 - 2026-09-04 11:30 - chore: upgrade dev toolchain
+- 2026-09-04 12:35 - test: verify rollback on failure
