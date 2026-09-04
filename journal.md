@@ -181,3 +181,4 @@
 - 2026-09-03 17:07 - docs: update project README
 - 2026-09-03 17:43 - feat: add template rendering
 - 2026-09-04 10:37 - wip: park work in progress
+- 2026-09-04 11:30 - chore: upgrade dev toolchain
