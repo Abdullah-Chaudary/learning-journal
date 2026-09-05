@@ -185,3 +185,4 @@
 - 2026-09-04 12:35 - test: verify rollback on failure
 - 2026-09-04 13:23 - wip: checkpoint current work
 - 2026-09-05 08:50 - wip: partial implementation of filter
+- 2026-09-05 09:12 - style: tidy blank lines
