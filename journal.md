@@ -186,3 +186,4 @@
 - 2026-09-04 13:23 - wip: checkpoint current work
 - 2026-09-05 08:50 - wip: partial implementation of filter
 - 2026-09-05 09:12 - style: tidy blank lines
+- 2026-09-05 10:14 - perf: lazy-load heavy modules
