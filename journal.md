@@ -184,3 +184,4 @@
 - 2026-09-04 11:30 - chore: upgrade dev toolchain
 - 2026-09-04 12:35 - test: verify rollback on failure
 - 2026-09-04 13:23 - wip: checkpoint current work
+- 2026-09-05 08:50 - wip: partial implementation of filter
