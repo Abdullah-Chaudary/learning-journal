@@ -192,3 +192,4 @@
 - 2026-09-05 13:02 - docs: add daily learning notes
 - 2026-09-07 09:58 - docs: update contribution guidelines
 - 2026-09-07 10:38 - security: restrict CORS origins
+- 2026-09-07 11:32 - feat: support env-based config
