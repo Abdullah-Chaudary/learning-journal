@@ -191,3 +191,4 @@
 - 2026-09-05 12:26 - chore: bump base image tag
 - 2026-09-05 13:02 - docs: add daily learning notes
 - 2026-09-07 09:58 - docs: update contribution guidelines
+- 2026-09-07 10:38 - security: restrict CORS origins
