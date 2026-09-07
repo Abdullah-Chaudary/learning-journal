@@ -195,3 +195,4 @@
 - 2026-09-07 11:32 - feat: support env-based config
 - 2026-09-07 12:28 - feat: wire up notification hook
 - 2026-09-07 13:09 - test: cover empty-input scenarios
+- 2026-09-07 13:41 - refactor: drop dead code
