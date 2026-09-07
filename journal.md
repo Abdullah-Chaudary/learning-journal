@@ -196,3 +196,4 @@
 - 2026-09-07 12:28 - feat: wire up notification hook
 - 2026-09-07 13:09 - test: cover empty-input scenarios
 - 2026-09-07 13:41 - refactor: drop dead code
+- 2026-09-07 14:47 - notes: summarize conference talk
