@@ -198,3 +198,4 @@
 - 2026-09-07 13:41 - refactor: drop dead code
 - 2026-09-07 14:47 - notes: summarize conference talk
 - 2026-09-07 15:21 - refactor: extract validation into module
+- 2026-09-07 16:01 - build: split config into layers
