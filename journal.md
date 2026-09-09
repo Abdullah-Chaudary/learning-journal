@@ -200,3 +200,4 @@
 - 2026-09-07 15:21 - refactor: extract validation into module
 - 2026-09-07 16:01 - build: split config into layers
 - 2026-09-07 16:49 - chore: rotate log files
+- 2026-09-09 09:39 - feat: support env-based config
