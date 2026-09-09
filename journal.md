@@ -202,3 +202,4 @@
 - 2026-09-07 16:49 - chore: rotate log files
 - 2026-09-09 09:39 - feat: support env-based config
 - 2026-09-09 10:12 - style: unify list punctuation
+- 2026-09-09 10:35 - style: fix heading hierarchy
