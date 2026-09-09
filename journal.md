@@ -205,3 +205,4 @@
 - 2026-09-09 10:35 - style: fix heading hierarchy
 - 2026-09-09 11:45 - notes: sketch system design diagram
 - 2026-09-09 12:56 - test: cover empty-input scenarios
+- 2026-09-09 14:14 - docs: clean up outdated examples
