@@ -209,3 +209,4 @@
 - 2026-09-09 15:07 - refactor: invert condition for clarity
 - 2026-09-09 16:17 - test: verify boundary conditions
 - 2026-09-09 16:56 - style: sort imports alphabetically
+- 2026-09-09 17:44 - refactor: unify error handling paths
