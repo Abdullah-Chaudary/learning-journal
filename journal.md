@@ -212,3 +212,4 @@
 - 2026-09-09 17:44 - refactor: unify error handling paths
 - 2026-09-10 11:52 - test: validate output format
 - 2026-09-10 12:15 - feat: scaffold new module skeleton
+- 2026-09-10 13:24 - style: unify error casing
