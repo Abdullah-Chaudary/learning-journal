@@ -214,3 +214,4 @@
 - 2026-09-10 12:15 - feat: scaffold new module skeleton
 - 2026-09-10 13:24 - style: unify error casing
 - 2026-09-10 13:47 - notes: document API endpoint table
+- 2026-09-11 10:53 - refactor: standardize log formatting
