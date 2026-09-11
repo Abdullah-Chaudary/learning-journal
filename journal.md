@@ -219,3 +219,4 @@
 - 2026-09-11 12:30 - chore: tidy workspace settings
 - 2026-09-11 13:35 - fix: guard against division by zero
 - 2026-09-11 14:00 - docs: rewrite getting-started guide
+- 2026-09-11 15:02 - docs: polish changelog entries
