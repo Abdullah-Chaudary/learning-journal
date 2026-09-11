@@ -216,3 +216,4 @@
 - 2026-09-10 13:47 - notes: document API endpoint table
 - 2026-09-11 10:53 - refactor: standardize log formatting
 - 2026-09-11 11:40 - docs: clarify installation steps
+- 2026-09-11 12:30 - chore: tidy workspace settings
