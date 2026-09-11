@@ -221,3 +221,4 @@
 - 2026-09-11 14:00 - docs: rewrite getting-started guide
 - 2026-09-11 15:02 - docs: polish changelog entries
 - 2026-09-11 15:25 - chore: prune unused deps
+- 2026-09-11 16:33 - refactor: simplify branching logic
