@@ -223,3 +223,4 @@
 - 2026-09-11 15:25 - chore: prune unused deps
 - 2026-09-11 16:33 - refactor: simplify branching logic
 - 2026-09-12 11:06 - refactor: consolidate type guards
+- 2026-09-12 12:05 - test: assert no side effects
