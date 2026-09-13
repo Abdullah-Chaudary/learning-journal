@@ -225,3 +225,4 @@
 - 2026-09-12 11:06 - refactor: consolidate type guards
 - 2026-09-12 12:05 - test: assert no side effects
 - 2026-09-12 12:45 - fix: fix broken anchor links
+- 2026-09-13 10:38 - build: split config into layers
