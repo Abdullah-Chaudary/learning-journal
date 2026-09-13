@@ -228,3 +228,4 @@
 - 2026-09-13 10:38 - build: split config into layers
 - 2026-09-13 11:54 - wip: rough draft of algorithm
 - 2026-09-13 12:26 - perf: avoid full array scans
+- 2026-09-13 13:26 - docs: clarify installation steps
