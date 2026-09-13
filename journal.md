@@ -231,3 +231,4 @@
 - 2026-09-13 13:26 - docs: clarify installation steps
 - 2026-09-13 13:48 - refactor: unify error handling paths
 - 2026-09-13 14:24 - perf: skip redundant checks
+- 2026-09-13 14:46 - test: validate output format
