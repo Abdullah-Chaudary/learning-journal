@@ -226,3 +226,4 @@
 - 2026-09-12 12:05 - test: assert no side effects
 - 2026-09-12 12:45 - fix: fix broken anchor links
 - 2026-09-13 10:38 - build: split config into layers
+- 2026-09-13 11:54 - wip: rough draft of algorithm
