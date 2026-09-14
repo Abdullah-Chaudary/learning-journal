@@ -237,3 +237,4 @@
 - 2026-09-14 11:42 - fix: guard against division by zero
 - 2026-09-14 12:42 - security: restrict CORS origins
 - 2026-09-14 13:38 - test: reproduce reported bug
+- 2026-09-14 14:48 - fix: resolve null pointer on empty input
