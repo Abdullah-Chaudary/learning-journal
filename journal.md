@@ -242,3 +242,4 @@
 - 2026-09-15 10:03 - chore: final cleanup pass
 - 2026-09-15 11:08 - notes: list gotchas encountered
 - 2026-09-15 11:57 - docs: update project README
+- 2026-09-15 13:13 - refactor: separate concerns in loader
