@@ -241,3 +241,4 @@
 - 2026-09-14 15:15 - refactor: centralize timestamp logic
 - 2026-09-15 10:03 - chore: final cleanup pass
 - 2026-09-15 11:08 - notes: list gotchas encountered
+- 2026-09-15 11:57 - docs: update project README
