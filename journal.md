@@ -244,3 +244,4 @@
 - 2026-09-15 11:57 - docs: update project README
 - 2026-09-15 13:13 - refactor: separate concerns in loader
 - 2026-09-15 14:24 - style: group related statements
+- 2026-09-16 08:39 - build: split config into layers
