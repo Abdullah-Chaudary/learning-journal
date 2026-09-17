@@ -247,3 +247,4 @@
 - 2026-09-16 08:39 - build: split config into layers
 - 2026-09-17 09:02 - docs: add troubleshooting section
 - 2026-09-17 09:56 - fix: detect interrupted writes
+- 2026-09-17 10:48 - chore: prune unused deps
