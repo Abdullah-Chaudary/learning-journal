@@ -248,3 +248,4 @@
 - 2026-09-17 09:02 - docs: add troubleshooting section
 - 2026-09-17 09:56 - fix: detect interrupted writes
 - 2026-09-17 10:48 - chore: prune unused deps
+- 2026-09-17 11:48 - feat: support env-based config
