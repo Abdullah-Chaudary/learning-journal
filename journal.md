@@ -250,3 +250,4 @@
 - 2026-09-17 10:48 - chore: prune unused deps
 - 2026-09-17 11:48 - feat: support env-based config
 - 2026-09-18 08:17 - refactor: drop dead code
+- 2026-09-18 08:43 - test: simulate slow network
