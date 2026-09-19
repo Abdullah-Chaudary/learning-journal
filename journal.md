@@ -257,3 +257,4 @@
 - 2026-09-19 10:55 - style: standardize spacing
 - 2026-09-19 11:19 - feat: introduce caching layer
 - 2026-09-19 12:35 - notes: brainstorm feature ideas
+- 2026-09-19 13:30 - feat: add config validation helper
