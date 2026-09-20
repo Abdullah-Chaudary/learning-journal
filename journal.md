@@ -265,3 +265,4 @@
 - 2026-09-20 09:57 - notes: plan next sprint backlog
 - 2026-09-20 11:05 - style: fix inconsistent quotes
 - 2026-09-20 11:39 - refactor: tidy up module boundaries
+- 2026-09-20 12:01 - fix: correct off-by-one in index loop
