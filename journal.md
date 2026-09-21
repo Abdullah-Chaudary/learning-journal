@@ -271,3 +271,4 @@
 - 2026-09-21 08:35 - notes: brainstorm feature ideas
 - 2026-09-21 09:34 - test: verify rollback on failure
 - 2026-09-21 10:40 - refactor: separate concerns in loader
+- 2026-09-21 11:08 - test: confirm sorting is stable
