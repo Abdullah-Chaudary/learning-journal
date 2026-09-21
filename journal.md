@@ -274,3 +274,4 @@
 - 2026-09-21 11:08 - test: confirm sorting is stable
 - 2026-09-21 12:01 - fix: resolve null pointer on empty input
 - 2026-09-21 13:19 - feat: add config validation helper
+- 2026-09-21 14:12 - feat: add batch processing mode
