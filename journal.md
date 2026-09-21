@@ -270,3 +270,4 @@
 - 2026-09-20 13:41 - perf: optimize hot loop
 - 2026-09-21 08:35 - notes: brainstorm feature ideas
 - 2026-09-21 09:34 - test: verify rollback on failure
+- 2026-09-21 10:40 - refactor: separate concerns in loader
