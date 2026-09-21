@@ -268,3 +268,4 @@
 - 2026-09-20 12:01 - fix: correct off-by-one in index loop
 - 2026-09-20 12:54 - chore: update license header
 - 2026-09-20 13:41 - perf: optimize hot loop
+- 2026-09-21 08:35 - notes: brainstorm feature ideas
