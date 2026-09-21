@@ -273,3 +273,4 @@
 - 2026-09-21 10:40 - refactor: separate concerns in loader
 - 2026-09-21 11:08 - test: confirm sorting is stable
 - 2026-09-21 12:01 - fix: resolve null pointer on empty input
+- 2026-09-21 13:19 - feat: add config validation helper
