@@ -269,3 +269,4 @@
 - 2026-09-20 12:54 - chore: update license header
 - 2026-09-20 13:41 - perf: optimize hot loop
 - 2026-09-21 08:35 - notes: brainstorm feature ideas
+- 2026-09-21 09:34 - test: verify rollback on failure
