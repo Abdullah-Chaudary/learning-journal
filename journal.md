@@ -282,3 +282,4 @@
 - 2026-09-24 09:19 - test: reproduce reported bug
 - 2026-09-24 09:44 - perf: optimize hot loop
 - 2026-09-24 10:27 - feat: implement session restore
+- 2026-09-24 10:53 - style: normalize string quoting
