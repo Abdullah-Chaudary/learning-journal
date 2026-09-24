@@ -281,3 +281,4 @@
 - 2026-09-24 08:00 - test: add unit tests for parser
 - 2026-09-24 09:19 - test: reproduce reported bug
 - 2026-09-24 09:44 - perf: optimize hot loop
+- 2026-09-24 10:27 - feat: implement session restore
