@@ -280,3 +280,4 @@
 - 2026-09-22 10:23 - docs: expand comment coverage
 - 2026-09-24 08:00 - test: add unit tests for parser
 - 2026-09-24 09:19 - test: reproduce reported bug
+- 2026-09-24 09:44 - perf: optimize hot loop
