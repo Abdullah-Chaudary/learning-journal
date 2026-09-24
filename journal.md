@@ -283,3 +283,4 @@
 - 2026-09-24 09:44 - perf: optimize hot loop
 - 2026-09-24 10:27 - feat: implement session restore
 - 2026-09-24 10:53 - style: normalize string quoting
+- 2026-09-24 11:50 - fix: escape special chars in output
