@@ -287,3 +287,4 @@
 - 2026-09-24 12:39 - wip: commit checkpoint before revert
 - 2026-09-24 13:49 - test: verify boundary conditions
 - 2026-09-24 15:00 - perf: skip redundant checks
+- 2026-09-24 15:32 - chore: update local dev scripts
