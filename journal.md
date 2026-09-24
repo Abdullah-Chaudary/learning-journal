@@ -278,3 +278,4 @@
 - 2026-09-21 15:08 - style: consistent error message case
 - 2026-09-22 09:25 - style: adjust naming to snake_case
 - 2026-09-22 10:23 - docs: expand comment coverage
+- 2026-09-24 08:00 - test: add unit tests for parser
