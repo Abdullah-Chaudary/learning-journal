@@ -293,3 +293,4 @@
 - 2026-09-26 10:54 - feat: add batch processing mode
 - 2026-09-26 12:01 - fix: escape special chars in output
 - 2026-09-26 12:51 - refactor: separate concerns in loader
+- 2026-09-26 13:13 - docs: revise intro paragraph
