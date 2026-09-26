@@ -289,3 +289,4 @@
 - 2026-09-24 15:00 - perf: skip redundant checks
 - 2026-09-24 15:32 - chore: update local dev scripts
 - 2026-09-24 16:33 - style: harmonize comment style
+- 2026-09-26 09:52 - feat: introduce caching layer
