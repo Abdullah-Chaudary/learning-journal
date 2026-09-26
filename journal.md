@@ -291,3 +291,4 @@
 - 2026-09-24 16:33 - style: harmonize comment style
 - 2026-09-26 09:52 - feat: introduce caching layer
 - 2026-09-26 10:54 - feat: add batch processing mode
+- 2026-09-26 12:01 - fix: escape special chars in output
