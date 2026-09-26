@@ -294,3 +294,4 @@
 - 2026-09-26 12:01 - fix: escape special chars in output
 - 2026-09-26 12:51 - refactor: separate concerns in loader
 - 2026-09-26 13:13 - docs: revise intro paragraph
+- 2026-09-26 13:37 - perf: trim redundant work
