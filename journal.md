@@ -292,3 +292,4 @@
 - 2026-09-26 09:52 - feat: introduce caching layer
 - 2026-09-26 10:54 - feat: add batch processing mode
 - 2026-09-26 12:01 - fix: escape special chars in output
+- 2026-09-26 12:51 - refactor: separate concerns in loader
