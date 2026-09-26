@@ -296,3 +296,4 @@
 - 2026-09-26 13:13 - docs: revise intro paragraph
 - 2026-09-26 13:37 - perf: trim redundant work
 - 2026-09-26 14:29 - style: clean up trailing whitespace
+- 2026-09-26 15:16 - perf: avoid full array scans
