@@ -300,3 +300,4 @@
 - 2026-09-26 16:27 - docs: rewrite getting-started guide
 - 2026-09-26 17:40 - test: test retry backoff behavior
 - 2026-09-27 11:41 - style: harmonize comment style
+- 2026-09-28 11:37 - chore: add .gitignore entries
