@@ -309,3 +309,4 @@
 - 2026-09-29 12:13 - security: sanitize user input
 - 2026-09-29 13:22 - refactor: extract shared helper
 - 2026-09-29 14:39 - notes: outline weekend study plan
+- 2026-09-29 15:10 - perf: batch DB writes
