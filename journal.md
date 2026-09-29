@@ -308,3 +308,4 @@
 - 2026-09-29 11:45 - refactor: drop dead code
 - 2026-09-29 12:13 - security: sanitize user input
 - 2026-09-29 13:22 - refactor: extract shared helper
+- 2026-09-29 14:39 - notes: outline weekend study plan
