@@ -306,3 +306,4 @@
 - 2026-09-29 10:27 - feat: support multiple output formats
 - 2026-09-29 11:07 - docs: annotate key design decisions
 - 2026-09-29 11:45 - refactor: drop dead code
+- 2026-09-29 12:13 - security: sanitize user input
