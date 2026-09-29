@@ -303,3 +303,4 @@
 - 2026-09-28 11:37 - chore: add .gitignore entries
 - 2026-09-28 12:47 - test: parametrize date tests
 - 2026-09-29 09:31 - test: reproduce reported bug
+- 2026-09-29 10:27 - feat: support multiple output formats
