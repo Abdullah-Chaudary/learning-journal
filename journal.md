@@ -302,3 +302,4 @@
 - 2026-09-27 11:41 - style: harmonize comment style
 - 2026-09-28 11:37 - chore: add .gitignore entries
 - 2026-09-28 12:47 - test: parametrize date tests
+- 2026-09-29 09:31 - test: reproduce reported bug
