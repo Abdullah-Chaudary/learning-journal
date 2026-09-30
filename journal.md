@@ -314,3 +314,4 @@
 - 2026-09-30 13:22 - chore: trim oversized diffs
 - 2026-09-30 14:34 - docs: summarize weekly review
 - 2026-09-30 15:32 - fix: restore missing import
+- 2026-09-30 16:01 - feat: add template rendering
