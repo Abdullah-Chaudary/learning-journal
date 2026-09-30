@@ -312,3 +312,4 @@
 - 2026-09-29 15:10 - perf: batch DB writes
 - 2026-09-29 16:13 - refactor: clean up test fixtures
 - 2026-09-30 13:22 - chore: trim oversized diffs
+- 2026-09-30 14:34 - docs: summarize weekly review
