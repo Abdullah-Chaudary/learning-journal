@@ -315,3 +315,4 @@
 - 2026-09-30 14:34 - docs: summarize weekly review
 - 2026-09-30 15:32 - fix: restore missing import
 - 2026-09-30 16:01 - feat: add template rendering
+- 2026-10-01 12:13 - test: validate output format
