@@ -319,3 +319,4 @@
 - 2026-10-01 13:03 - test: verify rollback on failure
 - 2026-10-02 13:38 - test: test retry backoff behavior
 - 2026-10-02 14:06 - feat: add settings persistence
+- 2026-10-02 14:36 - feat: expose new utility function
