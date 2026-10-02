@@ -323,3 +323,4 @@
 - 2026-10-02 15:29 - perf: optimize hot loop
 - 2026-10-02 16:15 - test: add integration test for sync
 - 2026-10-02 17:15 - perf: trim redundant work
+- 2026-10-02 18:26 - docs: draft chapter on error handling
