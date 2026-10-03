@@ -327,3 +327,4 @@
 - 2026-10-03 09:47 - docs: reorganize topic index
 - 2026-10-03 10:27 - chore: bump base image tag
 - 2026-10-03 11:17 - refactor: consolidate type guards
+- 2026-10-03 11:55 - fix: correct off-by-one in index loop
