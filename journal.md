@@ -329,3 +329,4 @@
 - 2026-10-03 11:17 - refactor: consolidate type guards
 - 2026-10-03 11:55 - fix: correct off-by-one in index loop
 - 2026-10-03 12:20 - security: restrict CORS origins
+- 2026-10-03 12:51 - feat: add template rendering
