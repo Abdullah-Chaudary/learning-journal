@@ -326,3 +326,4 @@
 - 2026-10-02 18:26 - docs: draft chapter on error handling
 - 2026-10-03 09:47 - docs: reorganize topic index
 - 2026-10-03 10:27 - chore: bump base image tag
+- 2026-10-03 11:17 - refactor: consolidate type guards
