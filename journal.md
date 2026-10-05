@@ -331,3 +331,4 @@
 - 2026-10-03 12:20 - security: restrict CORS origins
 - 2026-10-03 12:51 - feat: add template rendering
 - 2026-10-04 13:34 - style: adjust naming to snake_case
+- 2026-10-05 13:44 - style: unify error casing
