@@ -337,3 +337,4 @@
 - 2026-10-05 16:37 - notes: capture debugging checklist
 - 2026-10-06 09:40 - feat: introduce event emitter
 - 2026-10-06 10:07 - refactor: clean up test fixtures
+- 2026-10-06 10:31 - test: add regression test for #123
