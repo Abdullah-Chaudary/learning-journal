@@ -344,3 +344,4 @@
 - 2026-10-06 15:09 - notes: capture debugging checklist
 - 2026-10-06 16:20 - style: standardize spacing
 - 2026-10-06 17:00 - style: tidy blank lines
+- 2026-10-06 18:14 - test: add integration test for sync
