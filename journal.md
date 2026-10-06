@@ -343,3 +343,4 @@
 - 2026-10-06 13:51 - test: mock external service calls
 - 2026-10-06 15:09 - notes: capture debugging checklist
 - 2026-10-06 16:20 - style: standardize spacing
+- 2026-10-06 17:00 - style: tidy blank lines
