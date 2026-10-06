@@ -341,3 +341,4 @@
 - 2026-10-06 11:51 - wip: snapshot before refactor
 - 2026-10-06 12:46 - chore: reorganize docs folder
 - 2026-10-06 13:51 - test: mock external service calls
+- 2026-10-06 15:09 - notes: capture debugging checklist
