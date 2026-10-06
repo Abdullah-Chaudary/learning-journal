@@ -339,3 +339,4 @@
 - 2026-10-06 10:07 - refactor: clean up test fixtures
 - 2026-10-06 10:31 - test: add regression test for #123
 - 2026-10-06 11:51 - wip: snapshot before refactor
+- 2026-10-06 12:46 - chore: reorganize docs folder
