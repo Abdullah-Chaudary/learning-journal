@@ -335,3 +335,4 @@
 - 2026-10-05 14:37 - perf: preallocate buffers
 - 2026-10-05 15:20 - feat: add graceful shutdown
 - 2026-10-05 16:37 - notes: capture debugging checklist
+- 2026-10-06 09:40 - feat: introduce event emitter
