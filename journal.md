@@ -348,3 +348,4 @@
 - 2026-10-06 19:22 - fix: skip empty files during scan
 - 2026-10-07 09:31 - feat: implement retry logic
 - 2026-10-07 10:13 - test: verify rollback on failure
+- 2026-10-07 11:26 - feat: expose new utility function
