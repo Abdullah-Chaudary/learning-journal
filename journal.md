@@ -346,3 +346,4 @@
 - 2026-10-06 17:00 - style: tidy blank lines
 - 2026-10-06 18:14 - test: add integration test for sync
 - 2026-10-06 19:22 - fix: skip empty files during scan
+- 2026-10-07 09:31 - feat: implement retry logic
