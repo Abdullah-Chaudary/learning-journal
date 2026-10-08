@@ -351,3 +351,4 @@
 - 2026-10-07 11:26 - feat: expose new utility function
 - 2026-10-07 12:29 - security: tighten file permissions
 - 2026-10-07 13:08 - refactor: move constants to config
+- 2026-10-08 10:07 - chore: bump dependency versions
