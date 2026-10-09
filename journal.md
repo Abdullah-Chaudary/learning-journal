@@ -357,3 +357,4 @@
 - 2026-10-09 10:40 - docs: fill in missing references
 - 2026-10-09 11:29 - refactor: move constants to config
 - 2026-10-09 11:53 - feat: add pagination support
+- 2026-10-09 12:13 - style: unify error casing
