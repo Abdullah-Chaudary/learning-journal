@@ -361,3 +361,4 @@
 - 2026-10-09 13:31 - chore: update linter rules
 - 2026-10-09 14:48 - style: harmonize comment style
 - 2026-10-09 15:57 - refactor: extract shared helper
+- 2026-10-09 17:03 - chore: pin reproducible builds
