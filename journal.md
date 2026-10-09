@@ -358,3 +358,4 @@
 - 2026-10-09 11:29 - refactor: move constants to config
 - 2026-10-09 11:53 - feat: add pagination support
 - 2026-10-09 12:13 - style: unify error casing
+- 2026-10-09 13:31 - chore: update linter rules
