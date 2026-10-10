@@ -367,3 +367,4 @@
 - 2026-10-10 14:08 - test: cover empty-input scenarios
 - 2026-10-10 15:01 - style: standardize spacing
 - 2026-10-10 16:11 - chore: archive old notes
+- 2026-10-10 17:30 - chore: update editorconfig
