@@ -363,3 +363,4 @@
 - 2026-10-09 15:57 - refactor: extract shared helper
 - 2026-10-09 17:03 - chore: pin reproducible builds
 - 2026-10-10 12:24 - chore: final cleanup pass
+- 2026-10-10 12:50 - feat: log structured events
