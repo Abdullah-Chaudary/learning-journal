@@ -373,3 +373,4 @@
 - 2026-10-12 14:35 - feat: add pagination support
 - 2026-10-12 15:24 - chore: initialize repo structure
 - 2026-10-12 16:33 - feat: add graceful shutdown
+- 2026-10-13 09:25 - docs: expand comment coverage
