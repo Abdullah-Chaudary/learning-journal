@@ -374,3 +374,4 @@
 - 2026-10-12 15:24 - chore: initialize repo structure
 - 2026-10-12 16:33 - feat: add graceful shutdown
 - 2026-10-13 09:25 - docs: expand comment coverage
+- 2026-10-14 09:30 - test: ensure idempotent runs
