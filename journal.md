@@ -376,3 +376,4 @@
 - 2026-10-13 09:25 - docs: expand comment coverage
 - 2026-10-14 09:30 - test: ensure idempotent runs
 - 2026-10-14 10:17 - build: parallelize build steps
+- 2026-10-14 11:24 - docs: record debugging session notes
