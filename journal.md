@@ -382,3 +382,4 @@
 - 2026-10-15 09:07 - docs: annotate key design decisions
 - 2026-10-15 09:30 - notes: document API endpoint table
 - 2026-10-15 09:50 - notes: capture debugging checklist
+- 2026-10-15 10:25 - feat: support multiple output formats
