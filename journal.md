@@ -385,3 +385,4 @@
 - 2026-10-15 10:25 - feat: support multiple output formats
 - 2026-10-15 11:43 - refactor: separate concerns in loader
 - 2026-10-15 13:03 - refactor: unify error handling paths
+- 2026-10-15 13:32 - fix: validate date range before parse
