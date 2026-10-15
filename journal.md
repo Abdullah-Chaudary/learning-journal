@@ -379,3 +379,4 @@
 - 2026-10-14 11:24 - docs: record debugging session notes
 - 2026-10-14 12:10 - style: adjust naming to snake_case
 - 2026-10-15 08:26 - security: restrict CORS origins
+- 2026-10-15 09:07 - docs: annotate key design decisions
