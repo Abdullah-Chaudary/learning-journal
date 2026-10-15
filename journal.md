@@ -381,3 +381,4 @@
 - 2026-10-15 08:26 - security: restrict CORS origins
 - 2026-10-15 09:07 - docs: annotate key design decisions
 - 2026-10-15 09:30 - notes: document API endpoint table
+- 2026-10-15 09:50 - notes: capture debugging checklist
