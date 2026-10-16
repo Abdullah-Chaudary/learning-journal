@@ -390,3 +390,4 @@
 - 2026-10-16 09:34 - feat: add config validation helper
 - 2026-10-16 09:56 - wip: commit checkpoint before revert
 - 2026-10-16 10:30 - chore: tidy workspace settings
+- 2026-10-16 11:28 - style: standardize spacing
