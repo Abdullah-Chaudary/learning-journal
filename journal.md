@@ -395,3 +395,4 @@
 - 2026-10-16 13:30 - refactor: separate concerns in loader
 - 2026-10-16 13:54 - security: sanitize user input
 - 2026-10-16 14:35 - style: unify list punctuation
+- 2026-10-16 15:48 - notes: list gotchas encountered
