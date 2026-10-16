@@ -389,3 +389,4 @@
 - 2026-10-15 13:57 - fix: patch race condition in cache
 - 2026-10-16 09:34 - feat: add config validation helper
 - 2026-10-16 09:56 - wip: commit checkpoint before revert
+- 2026-10-16 10:30 - chore: tidy workspace settings
