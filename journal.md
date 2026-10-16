@@ -387,3 +387,4 @@
 - 2026-10-15 13:03 - refactor: unify error handling paths
 - 2026-10-15 13:32 - fix: validate date range before parse
 - 2026-10-15 13:57 - fix: patch race condition in cache
+- 2026-10-16 09:34 - feat: add config validation helper
