@@ -393,3 +393,4 @@
 - 2026-10-16 11:28 - style: standardize spacing
 - 2026-10-16 12:26 - feat: support multiple output formats
 - 2026-10-16 13:30 - refactor: separate concerns in loader
+- 2026-10-16 13:54 - security: sanitize user input
