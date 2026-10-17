@@ -397,3 +397,4 @@
 - 2026-10-16 14:35 - style: unify list punctuation
 - 2026-10-16 15:48 - notes: list gotchas encountered
 - 2026-10-16 16:21 - feat: implement session restore
+- 2026-10-17 09:22 - wip: save intermediate progress
