@@ -399,3 +399,4 @@
 - 2026-10-16 16:21 - feat: implement session restore
 - 2026-10-17 09:22 - wip: save intermediate progress
 - 2026-10-17 10:21 - refactor: simplify nested conditionals
+- 2026-10-17 11:14 - refactor: reorder functions logically
