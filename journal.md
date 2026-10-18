@@ -404,3 +404,4 @@
 - 2026-10-17 13:10 - feat: introduce caching layer
 - 2026-10-17 14:27 - docs: add daily learning notes
 - 2026-10-18 10:57 - feat: build search filter builder
+- 2026-10-18 11:18 - notes: sketch system design diagram
