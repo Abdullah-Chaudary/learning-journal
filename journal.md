@@ -403,3 +403,4 @@
 - 2026-10-17 12:07 - perf: batch DB writes
 - 2026-10-17 13:10 - feat: introduce caching layer
 - 2026-10-17 14:27 - docs: add daily learning notes
+- 2026-10-18 10:57 - feat: build search filter builder
