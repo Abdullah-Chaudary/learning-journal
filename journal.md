@@ -406,3 +406,4 @@
 - 2026-10-18 10:57 - feat: build search filter builder
 - 2026-10-18 11:18 - notes: sketch system design diagram
 - 2026-10-18 12:25 - notes: summarize conference talk
+- 2026-10-18 12:58 - security: restrict CORS origins
