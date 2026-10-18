@@ -407,3 +407,4 @@
 - 2026-10-18 11:18 - notes: sketch system design diagram
 - 2026-10-18 12:25 - notes: summarize conference talk
 - 2026-10-18 12:58 - security: restrict CORS origins
+- 2026-10-18 13:26 - fix: handle unicode filenames
