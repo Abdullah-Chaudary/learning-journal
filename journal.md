@@ -410,3 +410,4 @@
 - 2026-10-18 13:26 - fix: handle unicode filenames
 - 2026-10-18 14:27 - chore: refresh CI cache key
 - 2026-10-18 15:09 - feat: introduce event emitter
+- 2026-10-18 15:58 - build: split config into layers
