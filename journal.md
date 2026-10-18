@@ -408,3 +408,4 @@
 - 2026-10-18 12:25 - notes: summarize conference talk
 - 2026-10-18 12:58 - security: restrict CORS origins
 - 2026-10-18 13:26 - fix: handle unicode filenames
+- 2026-10-18 14:27 - chore: refresh CI cache key
