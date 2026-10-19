@@ -412,3 +412,4 @@
 - 2026-10-18 15:09 - feat: introduce event emitter
 - 2026-10-18 15:58 - build: split config into layers
 - 2026-10-18 17:02 - fix: handle missing keys gracefully
+- 2026-10-19 08:15 - chore: upgrade dev toolchain
