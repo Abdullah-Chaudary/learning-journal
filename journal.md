@@ -418,3 +418,4 @@
 - 2026-10-21 11:29 - wip: checkpoint current work
 - 2026-10-21 12:21 - wip: rough draft of algorithm
 - 2026-10-21 12:48 - chore: update editorconfig
+- 2026-10-21 14:00 - refactor: use config factory pattern
