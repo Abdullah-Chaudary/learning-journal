@@ -427,3 +427,4 @@
 - 2026-10-22 10:35 - test: assert error messages
 - 2026-10-23 10:02 - style: unify list punctuation
 - 2026-10-23 10:36 - chore: update linter rules
+- 2026-10-23 11:30 - chore: consolidate config files
