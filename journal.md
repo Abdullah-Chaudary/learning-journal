@@ -429,3 +429,4 @@
 - 2026-10-23 10:36 - chore: update linter rules
 - 2026-10-23 11:30 - chore: consolidate config files
 - 2026-10-23 12:26 - perf: preallocate buffers
+- 2026-10-23 13:32 - feat: expose new utility function
