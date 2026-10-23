@@ -425,3 +425,4 @@
 - 2026-10-21 16:57 - style: fix inconsistent quotes
 - 2026-10-21 17:37 - chore: apply formatter pass
 - 2026-10-22 10:35 - test: assert error messages
+- 2026-10-23 10:02 - style: unify list punctuation
