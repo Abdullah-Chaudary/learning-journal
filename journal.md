@@ -431,3 +431,4 @@
 - 2026-10-23 12:26 - perf: preallocate buffers
 - 2026-10-23 13:32 - feat: expose new utility function
 - 2026-10-24 09:10 - notes: summarize conference talk
+- 2026-10-24 10:13 - fix: skip empty files during scan
