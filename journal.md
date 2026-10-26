@@ -442,3 +442,4 @@
 - 2026-10-26 14:26 - notes: capture debugging checklist
 - 2026-10-26 15:19 - refactor: extract validation into module
 - 2026-10-26 16:08 - feat: implement incremental backups
+- 2026-10-26 16:34 - fix: adjust sorting for locale
