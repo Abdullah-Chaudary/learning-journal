@@ -437,3 +437,4 @@
 - 2026-10-24 12:22 - feat: wire up notification hook
 - 2026-10-24 13:29 - refactor: rename ambiguous variables
 - 2026-10-25 12:26 - feat: add template rendering
+- 2026-10-26 12:49 - style: adjust naming to snake_case
