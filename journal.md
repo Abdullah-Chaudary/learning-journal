@@ -439,3 +439,4 @@
 - 2026-10-25 12:26 - feat: add template rendering
 - 2026-10-26 12:49 - style: adjust naming to snake_case
 - 2026-10-26 13:51 - feat: implement retry logic
+- 2026-10-26 14:26 - notes: capture debugging checklist
