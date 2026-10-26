@@ -443,3 +443,4 @@
 - 2026-10-26 15:19 - refactor: extract validation into module
 - 2026-10-26 16:08 - feat: implement incremental backups
 - 2026-10-26 16:34 - fix: adjust sorting for locale
+- 2026-10-26 17:45 - test: cover empty-input scenarios
