@@ -446,3 +446,4 @@
 - 2026-10-26 17:45 - test: cover empty-input scenarios
 - 2026-10-26 18:48 - chore: tidy workspace settings
 - 2026-10-26 19:37 - refactor: simplify nested conditionals
+- 2026-10-27 13:48 - perf: preallocate buffers
