@@ -453,3 +453,4 @@
 - 2026-10-28 13:20 - security: sanitize user input
 - 2026-10-28 13:46 - style: normalize string quoting
 - 2026-10-28 14:54 - refactor: drop dead code
+- 2026-10-28 15:50 - test: ensure idempotent runs
