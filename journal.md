@@ -450,3 +450,4 @@
 - 2026-10-27 14:36 - fix: normalize inconsistent line endings
 - 2026-10-28 11:40 - build: add reproducible build script
 - 2026-10-28 12:27 - style: sort imports alphabetically
+- 2026-10-28 13:20 - security: sanitize user input
