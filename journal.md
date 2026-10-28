@@ -451,3 +451,4 @@
 - 2026-10-28 11:40 - build: add reproducible build script
 - 2026-10-28 12:27 - style: sort imports alphabetically
 - 2026-10-28 13:20 - security: sanitize user input
+- 2026-10-28 13:46 - style: normalize string quoting
