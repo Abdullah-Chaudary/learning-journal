@@ -455,3 +455,4 @@
 - 2026-10-28 14:54 - refactor: drop dead code
 - 2026-10-28 15:50 - test: ensure idempotent runs
 - 2026-10-28 16:19 - test: simulate slow network
+- 2026-10-29 08:35 - refactor: centralize timestamp logic
