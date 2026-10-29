@@ -459,3 +459,4 @@
 - 2026-10-29 09:54 - style: convert tabs to spaces
 - 2026-10-29 10:28 - notes: document API endpoint table
 - 2026-10-29 11:46 - chore: update editorconfig
+- 2026-10-29 12:52 - fix: avoid stale cache reads
