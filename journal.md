@@ -461,3 +461,4 @@
 - 2026-10-29 11:46 - chore: update editorconfig
 - 2026-10-29 12:52 - fix: avoid stale cache reads
 - 2026-10-30 09:06 - refactor: replace callbacks with promises
+- 2026-10-30 10:24 - refactor: standardize log formatting
