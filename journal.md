@@ -462,3 +462,4 @@
 - 2026-10-29 12:52 - fix: avoid stale cache reads
 - 2026-10-30 09:06 - refactor: replace callbacks with promises
 - 2026-10-30 10:24 - refactor: standardize log formatting
+- 2026-10-30 11:00 - test: verify rollback on failure
