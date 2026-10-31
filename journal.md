@@ -464,3 +464,4 @@
 - 2026-10-30 10:24 - refactor: standardize log formatting
 - 2026-10-30 11:00 - test: verify rollback on failure
 - 2026-10-31 13:08 - test: assert no side effects
+- 2026-10-31 14:10 - style: normalize string quoting
