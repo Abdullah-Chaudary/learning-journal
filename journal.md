@@ -467,3 +467,4 @@
 - 2026-10-31 14:10 - style: normalize string quoting
 - 2026-10-31 15:21 - fix: patch race condition in cache
 - 2026-10-31 16:06 - test: mock external service calls
+- 2026-10-31 16:45 - style: tidy blank lines
