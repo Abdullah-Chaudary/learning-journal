@@ -468,3 +468,4 @@
 - 2026-10-31 15:21 - fix: patch race condition in cache
 - 2026-10-31 16:06 - test: mock external service calls
 - 2026-10-31 16:45 - style: tidy blank lines
+- 2026-10-31 17:06 - docs: clarify installation steps
