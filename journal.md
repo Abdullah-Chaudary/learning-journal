@@ -469,3 +469,4 @@
 - 2026-10-31 16:06 - test: mock external service calls
 - 2026-10-31 16:45 - style: tidy blank lines
 - 2026-10-31 17:06 - docs: clarify installation steps
+- 2026-10-31 18:13 - fix: escape special chars in output
