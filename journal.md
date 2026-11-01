@@ -470,3 +470,4 @@
 - 2026-10-31 16:45 - style: tidy blank lines
 - 2026-10-31 17:06 - docs: clarify installation steps
 - 2026-10-31 18:13 - fix: escape special chars in output
+- 2026-11-01 13:54 - feat: add config validation helper
