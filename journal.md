@@ -474,3 +474,4 @@
 - 2026-11-02 13:05 - docs: record debugging session notes
 - 2026-11-02 14:01 - style: shorten verbose conditionals
 - 2026-11-02 14:59 - docs: draft chapter on error handling
+- 2026-11-02 16:18 - fix: restore missing import
