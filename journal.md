@@ -476,3 +476,4 @@
 - 2026-11-02 14:59 - docs: draft chapter on error handling
 - 2026-11-02 16:18 - fix: restore missing import
 - 2026-11-02 16:45 - docs: expand FAQ coverage
+- 2026-11-02 17:59 - style: tidy blank lines
