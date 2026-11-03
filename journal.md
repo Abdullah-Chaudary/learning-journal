@@ -481,3 +481,4 @@
 - 2026-11-03 13:24 - refactor: standardize log formatting
 - 2026-11-03 14:03 - test: add integration test for sync
 - 2026-11-03 15:19 - feat: log structured events
+- 2026-11-03 15:58 - refactor: use config factory pattern
