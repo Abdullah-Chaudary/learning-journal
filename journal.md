@@ -479,3 +479,4 @@
 - 2026-11-02 17:59 - style: tidy blank lines
 - 2026-11-03 12:36 - security: rotate stored secrets
 - 2026-11-03 13:24 - refactor: standardize log formatting
+- 2026-11-03 14:03 - test: add integration test for sync
