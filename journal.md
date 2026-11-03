@@ -482,3 +482,4 @@
 - 2026-11-03 14:03 - test: add integration test for sync
 - 2026-11-03 15:19 - feat: log structured events
 - 2026-11-03 15:58 - refactor: use config factory pattern
+- 2026-11-03 17:14 - refactor: drop dead code
