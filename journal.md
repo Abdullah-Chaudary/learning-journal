@@ -477,3 +477,4 @@
 - 2026-11-02 16:18 - fix: restore missing import
 - 2026-11-02 16:45 - docs: expand FAQ coverage
 - 2026-11-02 17:59 - style: tidy blank lines
+- 2026-11-03 12:36 - security: rotate stored secrets
