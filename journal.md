@@ -484,3 +484,4 @@
 - 2026-11-03 15:58 - refactor: use config factory pattern
 - 2026-11-03 17:14 - refactor: drop dead code
 - 2026-11-03 18:27 - test: test retry backoff behavior
+- 2026-11-03 19:07 - notes: document API endpoint table
