@@ -490,3 +490,4 @@
 - 2026-11-04 12:30 - fix: prevent double submission
 - 2026-11-04 13:12 - wip: stage exploratory change
 - 2026-11-04 13:33 - docs: rewrite getting-started guide
+- 2026-11-04 13:59 - style: fix heading hierarchy
