@@ -497,3 +497,4 @@
 - 2026-11-06 09:08 - style: clean up trailing whitespace
 - 2026-11-06 09:31 - perf: optimize hot loop
 - 2026-11-06 10:41 - docs: clean up outdated examples
+- 2026-11-06 11:07 - refactor: centralize timestamp logic
