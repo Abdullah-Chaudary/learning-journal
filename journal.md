@@ -499,3 +499,4 @@
 - 2026-11-06 10:41 - docs: clean up outdated examples
 - 2026-11-06 11:07 - refactor: centralize timestamp logic
 - 2026-11-06 12:21 - docs: record debugging session notes
+- 2026-11-06 12:56 - docs: expand architecture overview
