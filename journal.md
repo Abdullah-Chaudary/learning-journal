@@ -508,3 +508,4 @@
 - 2026-11-07 09:53 - feat: add dry-run mode
 - 2026-11-07 11:10 - feat: scaffold new module skeleton
 - 2026-11-07 12:09 - fix: avoid stale cache reads
+- 2026-11-07 12:46 - test: check concurrent writes
