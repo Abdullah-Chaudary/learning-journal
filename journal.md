@@ -506,3 +506,4 @@
 - 2026-11-06 15:16 - test: confirm sorting is stable
 - 2026-11-07 09:30 - chore: update editorconfig
 - 2026-11-07 09:53 - feat: add dry-run mode
+- 2026-11-07 11:10 - feat: scaffold new module skeleton
