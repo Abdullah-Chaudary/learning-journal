@@ -511,3 +511,4 @@
 - 2026-11-07 12:46 - test: check concurrent writes
 - 2026-11-07 13:50 - chore: sync package metadata
 - 2026-11-07 14:52 - refactor: reorder functions logically
+- 2026-11-07 15:19 - build: parallelize build steps
