@@ -504,3 +504,4 @@
 - 2026-11-06 14:03 - fix: retry failed HTTP requests
 - 2026-11-06 14:34 - fix: correct timestamp formatting
 - 2026-11-06 15:16 - test: confirm sorting is stable
+- 2026-11-07 09:30 - chore: update editorconfig
