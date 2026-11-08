@@ -518,3 +518,4 @@
 - 2026-11-08 12:35 - notes: outline weekend study plan
 - 2026-11-08 13:05 - style: shorten verbose conditionals
 - 2026-11-08 14:22 - feat: introduce event emitter
+- 2026-11-08 14:57 - docs: draft chapter on error handling
