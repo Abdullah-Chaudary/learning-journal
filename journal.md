@@ -514,3 +514,4 @@
 - 2026-11-07 15:19 - build: parallelize build steps
 - 2026-11-08 09:16 - docs: clean up outdated examples
 - 2026-11-08 10:19 - refactor: reorder functions logically
+- 2026-11-08 11:31 - notes: document API endpoint table
