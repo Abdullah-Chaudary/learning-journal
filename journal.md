@@ -522,3 +522,4 @@
 - 2026-11-08 15:18 - docs: annotate key design decisions
 - 2026-11-08 16:14 - fix: fix broken anchor links
 - 2026-11-08 17:23 - test: assert error messages
+- 2026-11-08 18:43 - notes: brainstorm feature ideas
