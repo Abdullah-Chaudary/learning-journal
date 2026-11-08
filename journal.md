@@ -521,3 +521,4 @@
 - 2026-11-08 14:57 - docs: draft chapter on error handling
 - 2026-11-08 15:18 - docs: annotate key design decisions
 - 2026-11-08 16:14 - fix: fix broken anchor links
+- 2026-11-08 17:23 - test: assert error messages
