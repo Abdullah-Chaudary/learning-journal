@@ -517,3 +517,4 @@
 - 2026-11-08 11:31 - notes: document API endpoint table
 - 2026-11-08 12:35 - notes: outline weekend study plan
 - 2026-11-08 13:05 - style: shorten verbose conditionals
+- 2026-11-08 14:22 - feat: introduce event emitter
