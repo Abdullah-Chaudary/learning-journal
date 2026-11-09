@@ -527,3 +527,4 @@
 - 2026-11-09 09:19 - perf: avoid full array scans
 - 2026-11-09 09:45 - perf: skip redundant checks
 - 2026-11-09 10:33 - chore: rotate log files
+- 2026-11-09 11:52 - style: normalize indent width
