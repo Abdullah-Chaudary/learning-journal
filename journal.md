@@ -526,3 +526,4 @@
 - 2026-11-09 08:36 - test: verify rollback on failure
 - 2026-11-09 09:19 - perf: avoid full array scans
 - 2026-11-09 09:45 - perf: skip redundant checks
+- 2026-11-09 10:33 - chore: rotate log files
