@@ -533,3 +533,4 @@
 - 2026-11-10 15:00 - refactor: split large function into parts
 - 2026-11-10 15:50 - wip: rough draft of algorithm
 - 2026-11-10 17:03 - feat: add batch processing mode
+- 2026-11-10 17:46 - test: cover rollback path
