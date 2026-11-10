@@ -530,3 +530,4 @@
 - 2026-11-09 11:52 - style: normalize indent width
 - 2026-11-09 12:46 - chore: refresh lockfile
 - 2026-11-10 13:51 - chore: bump base image tag
+- 2026-11-10 15:00 - refactor: split large function into parts
