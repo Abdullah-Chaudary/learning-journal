@@ -529,3 +529,4 @@
 - 2026-11-09 10:33 - chore: rotate log files
 - 2026-11-09 11:52 - style: normalize indent width
 - 2026-11-09 12:46 - chore: refresh lockfile
+- 2026-11-10 13:51 - chore: bump base image tag
