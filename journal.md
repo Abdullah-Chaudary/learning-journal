@@ -537,3 +537,4 @@
 - 2026-11-10 18:23 - refactor: extract validation into module
 - 2026-11-10 19:04 - docs: clean up outdated examples
 - 2026-11-10 19:27 - style: adjust naming to snake_case
+- 2026-11-11 08:58 - style: align chained calls
