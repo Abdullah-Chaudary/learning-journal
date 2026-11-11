@@ -541,3 +541,4 @@
 - 2026-11-11 09:32 - chore: pin reproducible builds
 - 2026-11-11 10:40 - style: unify trailing commas
 - 2026-11-11 11:14 - notes: summarize conference talk
+- 2026-11-11 11:43 - test: cover rollback path
