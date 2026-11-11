@@ -540,3 +540,4 @@
 - 2026-11-11 08:58 - style: align chained calls
 - 2026-11-11 09:32 - chore: pin reproducible builds
 - 2026-11-11 10:40 - style: unify trailing commas
+- 2026-11-11 11:14 - notes: summarize conference talk
