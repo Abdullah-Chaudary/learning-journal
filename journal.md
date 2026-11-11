@@ -542,3 +542,4 @@
 - 2026-11-11 10:40 - style: unify trailing commas
 - 2026-11-11 11:14 - notes: summarize conference talk
 - 2026-11-11 11:43 - test: cover rollback path
+- 2026-11-11 12:35 - test: assert no side effects
