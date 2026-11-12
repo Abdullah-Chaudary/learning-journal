@@ -545,3 +545,4 @@
 - 2026-11-11 12:35 - test: assert no side effects
 - 2026-11-11 13:40 - chore: prune unused deps
 - 2026-11-11 14:44 - style: tidy blank lines
+- 2026-11-12 09:24 - refactor: rename ambiguous variables
