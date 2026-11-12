@@ -547,3 +547,4 @@
 - 2026-11-11 14:44 - style: tidy blank lines
 - 2026-11-12 09:24 - refactor: rename ambiguous variables
 - 2026-11-12 10:12 - refactor: use config factory pattern
+- 2026-11-12 10:44 - style: group related statements
