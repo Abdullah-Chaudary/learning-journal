@@ -553,3 +553,4 @@
 - 2026-11-12 13:30 - fix: validate date range before parse
 - 2026-11-12 13:50 - test: assert no side effects
 - 2026-11-12 14:52 - wip: commit checkpoint before revert
+- 2026-11-12 15:47 - test: ensure idempotent runs
