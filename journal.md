@@ -555,3 +555,4 @@
 - 2026-11-12 14:52 - wip: commit checkpoint before revert
 - 2026-11-12 15:47 - test: ensure idempotent runs
 - 2026-11-13 09:19 - chore: adopt new lint preset
+- 2026-11-13 10:00 - security: restrict CORS origins
