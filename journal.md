@@ -562,3 +562,4 @@
 - 2026-11-13 11:53 - feat: scaffold new module skeleton
 - 2026-11-13 12:29 - style: align chained calls
 - 2026-11-13 13:40 - test: assert error messages
+- 2026-11-13 14:56 - security: tighten file permissions
