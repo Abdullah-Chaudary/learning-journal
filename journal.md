@@ -564,3 +564,4 @@
 - 2026-11-13 13:40 - test: assert error messages
 - 2026-11-13 14:56 - security: tighten file permissions
 - 2026-11-13 16:05 - chore: pin reproducible builds
+- 2026-11-13 17:25 - test: snapshot serializer output
