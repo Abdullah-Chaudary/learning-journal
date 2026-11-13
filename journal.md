@@ -557,3 +557,4 @@
 - 2026-11-13 09:19 - chore: adopt new lint preset
 - 2026-11-13 10:00 - security: restrict CORS origins
 - 2026-11-13 10:25 - feat: expose new utility function
+- 2026-11-13 10:53 - test: check concurrent writes
