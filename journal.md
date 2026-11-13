@@ -560,3 +560,4 @@
 - 2026-11-13 10:53 - test: check concurrent writes
 - 2026-11-13 11:29 - feat: introduce event emitter
 - 2026-11-13 11:53 - feat: scaffold new module skeleton
+- 2026-11-13 12:29 - style: align chained calls
