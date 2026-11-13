@@ -563,3 +563,4 @@
 - 2026-11-13 12:29 - style: align chained calls
 - 2026-11-13 13:40 - test: assert error messages
 - 2026-11-13 14:56 - security: tighten file permissions
+- 2026-11-13 16:05 - chore: pin reproducible builds
