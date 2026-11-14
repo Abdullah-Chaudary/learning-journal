@@ -570,3 +570,4 @@
 - 2026-11-14 12:47 - chore: update local dev scripts
 - 2026-11-14 13:15 - feat: add config validation helper
 - 2026-11-14 14:07 - security: restrict CORS origins
+- 2026-11-14 14:48 - perf: cache repeated lookups
