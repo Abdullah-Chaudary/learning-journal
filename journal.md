@@ -568,3 +568,4 @@
 - 2026-11-14 11:47 - test: check concurrent writes
 - 2026-11-14 12:25 - feat: support multiple output formats
 - 2026-11-14 12:47 - chore: update local dev scripts
+- 2026-11-14 13:15 - feat: add config validation helper
