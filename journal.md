@@ -572,3 +572,4 @@
 - 2026-11-14 14:07 - security: restrict CORS origins
 - 2026-11-14 14:48 - perf: cache repeated lookups
 - 2026-11-14 15:34 - fix: correct regex for trailing spaces
+- 2026-11-14 15:58 - test: exercise large payloads
