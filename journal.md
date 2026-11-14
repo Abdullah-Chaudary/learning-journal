@@ -567,3 +567,4 @@
 - 2026-11-13 17:25 - test: snapshot serializer output
 - 2026-11-14 11:47 - test: check concurrent writes
 - 2026-11-14 12:25 - feat: support multiple output formats
+- 2026-11-14 12:47 - chore: update local dev scripts
