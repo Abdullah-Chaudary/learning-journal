@@ -578,3 +578,4 @@
 - 2026-11-15 15:14 - fix: handle timezone edge case
 - 2026-11-15 16:18 - docs: expand FAQ coverage
 - 2026-11-15 16:48 - chore: apply formatter pass
+- 2026-11-15 17:44 - chore: sync package metadata
