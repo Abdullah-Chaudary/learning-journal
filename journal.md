@@ -579,3 +579,4 @@
 - 2026-11-15 16:18 - docs: expand FAQ coverage
 - 2026-11-15 16:48 - chore: apply formatter pass
 - 2026-11-15 17:44 - chore: sync package metadata
+- 2026-11-15 18:17 - perf: cache repeated lookups
