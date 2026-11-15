@@ -575,3 +575,4 @@
 - 2026-11-14 15:58 - test: exercise large payloads
 - 2026-11-15 12:50 - feat: add config validation helper
 - 2026-11-15 13:57 - docs: improve glossary section
+- 2026-11-15 15:14 - fix: handle timezone edge case
