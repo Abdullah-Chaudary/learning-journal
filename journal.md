@@ -586,3 +586,4 @@
 - 2026-11-16 11:45 - notes: review yesterday's progress
 - 2026-11-16 13:02 - feat: scaffold new module skeleton
 - 2026-11-16 14:14 - feat: add dry-run mode
+- 2026-11-16 14:48 - chore: rotate log files
