@@ -581,3 +581,4 @@
 - 2026-11-15 17:44 - chore: sync package metadata
 - 2026-11-15 18:17 - perf: cache repeated lookups
 - 2026-11-16 08:16 - test: validate output format
+- 2026-11-16 09:28 - docs: rewrite getting-started guide
