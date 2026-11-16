@@ -589,3 +589,4 @@
 - 2026-11-16 14:48 - chore: rotate log files
 - 2026-11-16 15:56 - docs: expand FAQ coverage
 - 2026-11-16 16:52 - docs: expand architecture overview
+- 2026-11-16 18:06 - style: convert tabs to spaces
