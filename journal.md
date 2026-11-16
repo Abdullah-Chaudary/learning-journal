@@ -582,3 +582,4 @@
 - 2026-11-15 18:17 - perf: cache repeated lookups
 - 2026-11-16 08:16 - test: validate output format
 - 2026-11-16 09:28 - docs: rewrite getting-started guide
+- 2026-11-16 10:26 - feat: implement rate limiter
