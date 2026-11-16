@@ -583,3 +583,4 @@
 - 2026-11-16 08:16 - test: validate output format
 - 2026-11-16 09:28 - docs: rewrite getting-started guide
 - 2026-11-16 10:26 - feat: implement rate limiter
+- 2026-11-16 11:45 - notes: review yesterday's progress
