@@ -593,3 +593,4 @@
 - 2026-11-16 18:31 - docs: clean up outdated examples
 - 2026-11-17 10:27 - test: add unit tests for parser
 - 2026-11-17 11:07 - chore: update local dev scripts
+- 2026-11-17 11:50 - docs: improve glossary section
