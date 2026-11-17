@@ -591,3 +591,4 @@
 - 2026-11-16 16:52 - docs: expand architecture overview
 - 2026-11-16 18:06 - style: convert tabs to spaces
 - 2026-11-16 18:31 - docs: clean up outdated examples
+- 2026-11-17 10:27 - test: add unit tests for parser
