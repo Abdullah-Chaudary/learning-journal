@@ -597,3 +597,4 @@
 - 2026-11-18 13:14 - test: add regression test for #123
 - 2026-11-18 13:39 - notes: record reading list update
 - 2026-11-18 14:11 - feat: implement session restore
+- 2026-11-18 14:36 - style: sort imports alphabetically
