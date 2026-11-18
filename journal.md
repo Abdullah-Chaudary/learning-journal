@@ -596,3 +596,4 @@
 - 2026-11-17 11:50 - docs: improve glossary section
 - 2026-11-18 13:14 - test: add regression test for #123
 - 2026-11-18 13:39 - notes: record reading list update
+- 2026-11-18 14:11 - feat: implement session restore
