@@ -594,3 +594,4 @@
 - 2026-11-17 10:27 - test: add unit tests for parser
 - 2026-11-17 11:07 - chore: update local dev scripts
 - 2026-11-17 11:50 - docs: improve glossary section
+- 2026-11-18 13:14 - test: add regression test for #123
