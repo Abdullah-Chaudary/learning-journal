@@ -599,3 +599,4 @@
 - 2026-11-18 14:11 - feat: implement session restore
 - 2026-11-18 14:36 - style: sort imports alphabetically
 - 2026-11-19 12:09 - test: add regression test for #123
+- 2026-11-19 12:42 - chore: consolidate config files
