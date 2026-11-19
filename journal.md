@@ -602,3 +602,4 @@
 - 2026-11-19 12:42 - chore: consolidate config files
 - 2026-11-19 13:47 - docs: revise intro paragraph
 - 2026-11-19 14:32 - feat: wire up notification hook
+- 2026-11-19 15:19 - fix: avoid stale cache reads
