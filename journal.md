@@ -600,3 +600,4 @@
 - 2026-11-18 14:36 - style: sort imports alphabetically
 - 2026-11-19 12:09 - test: add regression test for #123
 - 2026-11-19 12:42 - chore: consolidate config files
+- 2026-11-19 13:47 - docs: revise intro paragraph
