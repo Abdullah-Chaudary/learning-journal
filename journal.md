@@ -613,3 +613,4 @@
 - 2026-11-21 14:52 - feat: expose new utility function
 - 2026-11-21 16:00 - feat: implement session restore
 - 2026-11-21 16:39 - chore: apply formatter pass
+- 2026-11-21 17:24 - feat: implement rate limiter
