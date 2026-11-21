@@ -606,3 +606,4 @@
 - 2026-11-21 09:51 - build: split config into layers
 - 2026-11-21 10:14 - refactor: standardize log formatting
 - 2026-11-21 10:41 - fix: reset state between runs
+- 2026-11-21 11:07 - chore: rotate log files
