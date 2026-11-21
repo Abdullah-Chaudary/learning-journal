@@ -605,3 +605,4 @@
 - 2026-11-19 15:19 - fix: avoid stale cache reads
 - 2026-11-21 09:51 - build: split config into layers
 - 2026-11-21 10:14 - refactor: standardize log formatting
+- 2026-11-21 10:41 - fix: reset state between runs
