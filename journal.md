@@ -611,3 +611,4 @@
 - 2026-11-21 13:34 - notes: outline weekend study plan
 - 2026-11-21 14:22 - docs: fill in missing references
 - 2026-11-21 14:52 - feat: expose new utility function
+- 2026-11-21 16:00 - feat: implement session restore
