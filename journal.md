@@ -609,3 +609,4 @@
 - 2026-11-21 11:07 - chore: rotate log files
 - 2026-11-21 12:14 - refactor: rename module for clarity
 - 2026-11-21 13:34 - notes: outline weekend study plan
+- 2026-11-21 14:22 - docs: fill in missing references
