@@ -614,3 +614,4 @@
 - 2026-11-21 16:00 - feat: implement session restore
 - 2026-11-21 16:39 - chore: apply formatter pass
 - 2026-11-21 17:24 - feat: implement rate limiter
+- 2026-11-22 10:06 - docs: record debugging session notes
