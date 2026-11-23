@@ -619,3 +619,4 @@
 - 2026-11-23 19:54 - feat: add settings persistence
 - 2026-11-23 20:52 - test: assert no side effects
 - 2026-11-23 22:02 - wip: partial implementation of filter
+- 2026-11-23 23:14 - perf: lazy-load heavy modules
