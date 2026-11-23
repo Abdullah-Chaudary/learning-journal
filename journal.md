@@ -617,3 +617,4 @@
 - 2026-11-22 10:06 - docs: record debugging session notes
 - 2026-11-23 19:14 - wip: park work in progress
 - 2026-11-23 19:54 - feat: add settings persistence
+- 2026-11-23 20:52 - test: assert no side effects
