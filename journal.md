@@ -620,3 +620,4 @@
 - 2026-11-23 20:52 - test: assert no side effects
 - 2026-11-23 22:02 - wip: partial implementation of filter
 - 2026-11-23 23:14 - perf: lazy-load heavy modules
+- 2026-11-24 00:21 - refactor: tidy up module boundaries
