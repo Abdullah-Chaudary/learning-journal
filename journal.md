@@ -625,3 +625,4 @@
 - 2026-11-24 01:33 - notes: brainstorm feature ideas
 - 2026-11-24 08:48 - wip: park work in progress
 - 2026-11-24 09:11 - feat: add settings persistence
+- 2026-11-24 10:22 - test: assert no side effects
