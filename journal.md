@@ -622,3 +622,4 @@
 - 2026-11-23 23:14 - perf: lazy-load heavy modules
 - 2026-11-24 00:21 - refactor: tidy up module boundaries
 - 2026-11-24 00:42 - docs: annotate key design decisions
+- 2026-11-24 01:33 - notes: brainstorm feature ideas
