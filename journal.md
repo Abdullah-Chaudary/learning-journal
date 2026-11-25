@@ -631,3 +631,4 @@
 - 2026-11-25 14:22 - docs: improve glossary section
 - 2026-11-25 14:54 - notes: review yesterday's progress
 - 2026-11-25 15:33 - feat: build search filter builder
+- 2026-11-25 16:32 - docs: expand comment coverage
