@@ -639,3 +639,4 @@
 - 2026-11-27 14:46 - chore: adopt new lint preset
 - 2026-11-27 15:19 - fix: escape special chars in output
 - 2026-11-27 15:55 - test: verify boundary conditions
+- 2026-11-27 16:55 - fix: close resource leak on error
