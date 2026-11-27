@@ -641,3 +641,4 @@
 - 2026-11-27 15:55 - test: verify boundary conditions
 - 2026-11-27 16:55 - fix: close resource leak on error
 - 2026-11-27 17:17 - fix: clamp values to valid bounds
+- 2026-11-27 18:24 - test: mock external service calls
