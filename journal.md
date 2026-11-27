@@ -636,3 +636,4 @@
 - 2026-11-27 11:26 - docs: link related topics
 - 2026-11-27 12:12 - docs: clarify installation steps
 - 2026-11-27 13:27 - chore: add .gitignore entries
+- 2026-11-27 14:46 - chore: adopt new lint preset
