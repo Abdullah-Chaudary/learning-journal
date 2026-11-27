@@ -633,3 +633,4 @@
 - 2026-11-25 15:33 - feat: build search filter builder
 - 2026-11-25 16:32 - docs: expand comment coverage
 - 2026-11-27 10:44 - feat: add dry-run mode
+- 2026-11-27 11:26 - docs: link related topics
