@@ -634,3 +634,4 @@
 - 2026-11-25 16:32 - docs: expand comment coverage
 - 2026-11-27 10:44 - feat: add dry-run mode
 - 2026-11-27 11:26 - docs: link related topics
+- 2026-11-27 12:12 - docs: clarify installation steps
